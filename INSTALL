@@ -1,0 +1,9 @@
+Building Graincoin
+
+See doc/readme-qt.rst for instructions on building Graincoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Graincoin.
+
+See doc/build-*.txt for instructions on building graincoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Graincoin.
