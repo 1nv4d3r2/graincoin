@@ -13,8 +13,8 @@ Graincoin is similar to Bitcoin, some differences are listed here.
 
  - subsidy halves in 440k blocks (~2 years)
  - ~64 million total coins
- - 25 coins per block
- - 288 blocks to retarget difficulty
+ - 50 coins per block
+ - 400 blocks to retarget difficulty
 
 Graincoin is a graincoin fork and almost everything is the same as graincoin, with some modifications made to further streamline transactions.
 
