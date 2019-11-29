@@ -4,7 +4,7 @@ Graincoin integration/staging tree
 http://www.graincoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Graincoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2019 Graincoin Developers
 What is Graincoin?
 ----------------
