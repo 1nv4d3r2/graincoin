@@ -1,7 +1,7 @@
 Graincoin integration/staging tree
 ================================
 
-http://www.graincoin.org
+https://www.graincoin.com.br
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
@@ -19,7 +19,7 @@ Graincoin is similar to Bitcoin, some differences are listed here.
 Graincoin is a graincoin fork and almost everything is the same as graincoin, with some modifications made to further streamline transactions.
 
 For more information, as well as an immediately useable, binary version of
-the Graincoin client sofware, see http://www.graincoin.org.
+the Graincoin client sofware, see https://www.graincoin.com.br.
 
 License
 -------
