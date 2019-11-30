@@ -18,7 +18,7 @@ With the difference that our cryptocurrencies are much more likely to appreciate
  - 50 coins per block
  - 400 blocks to retarget difficulty
 
-Graincoin is a Litecoin fork and almost everything is the same as graincoin, with some modifications made to further streamline transactions.
+Graincoin is a Litecoin fork and almost everything is the same as Litecoin, with some modifications made to further streamline transactions.
 
 For more information, as well as an immediately useable, binary version of
 the Graincoin client sofware, see https://www.graincoin.com.br.
