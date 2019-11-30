@@ -9,9 +9,9 @@ Copyright (c) 2019 Graincoin Developers
 What is Graincoin?
 ----------------
 
-Graincoin is a decentralized cryptocurrency used for settling its value commodities, and actual use as seeds, the idea being that each unit is worth seeds that are planted in our fields and thus from the flutes and at a certain time of year is harvested in the so-called harvest day ”where you can sell for a much higher value.
+Graincoin is a decentralized cryptocurrency used for settling its value commodities, and actual use as seeds, the idea being that each unit is worth seeds that are planted in our fields and thus from at a certain time of year is harvested in the so-called harvest day ”where you can sell for a much higher value.
 Think of yourself as an investor, because in general, the purchase of our crypto resembles an investor, who buys a stock in the hope that it will appreciate.
-With the difference that our cryptocurrencies are much more likely to appreciate since our allticoin has a very strong ballast that are the seeds, these seeds vary by market, for example if maize is more valued then we grow corn if it is beans then we plant beans or soybeans and so on, always in order to meet market demand.Graincoin is similar to Bitcoin, some differences are listed here.
+With the difference that our cryptocurrencies are much more likely to appreciate since our criptocoin has a very strong ballast that are the seeds, these seeds vary by market, for example if maize is more valued then we grow corn if it is beans then we plant beans or soybeans and so on, always in order to meet market demand.Graincoin is similar to Bitcoin, some differences are listed here.
 
  - subsidy halves in 440k blocks (~2 years)
  - ~64 million total coins
