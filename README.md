@@ -9,6 +9,8 @@ Copyright (c) 2019 Graincoin Developers
 What is Graincoin?
 ----------------
 
+Graincoin is a decentralized cryptocurrency designed to make online payments completely anonymous
+
  - subsidy halves in 440k blocks (~2 years)
  - ~64 million total coins
  - 50 coins per block
