@@ -1,4 +1,4 @@
-Graincoin integration/staging tree
+Graincoin(GRN) integration/staging tree
 ================================
 
 https://www.graincoin.com.br
