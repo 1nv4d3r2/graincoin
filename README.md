@@ -2,7 +2,8 @@ Graincoin(GRN) integration/staging tree
 ================================
 
 site: https://www.graincoin.com.br
-Graincoin block explorer: bit.ly/37blX78
+
+Graincoin block explorer: https://bit.ly/37blX78
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
