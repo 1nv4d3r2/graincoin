@@ -71,4 +71,4 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./graincoin-qt_test
 
-For instructions on how to create a Grain Node node go to www.graincoin.com.br
+For instructions on how to create a Graincoin Node node, go to www.graincoin.com.br
