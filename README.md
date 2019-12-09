@@ -1,7 +1,7 @@
 Graincoin(GRN) integration/staging tree
 ================================
 
-site: https://www.graincoin.com.br
+site: https://graincoin.000webhostapp.com/
 
 Graincoin block explorer: https://bit.ly/37blX78
 
@@ -21,7 +21,7 @@ Graincoin is a decentralized cryptocurrency designed to make online payments com
 Graincoin is a Litecoin fork and almost everything is the same as Litecoin, with some modifications made to further streamline transactions.
 
 For more information, as well as an immediately useable, binary version of
-the Graincoin client sofware, see https://www.graincoin.com.br.
+the Graincoin client sofware, see https://graincoin.000webhostapp.com/.
 
 License
 -------
