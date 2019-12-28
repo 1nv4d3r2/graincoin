@@ -1,9 +1,9 @@
 Graincoin(GRN) integration/staging tree
 ================================
 
-site: https://graincoin.000webhostapp.com/
+site: https://graincoind.000webhostapp.com/
 
-Graincoin block explorer: https://bit.ly/37blX78
+Graincoin block explorer: http://gracoin.live
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
@@ -21,7 +21,7 @@ Graincoin is a decentralized cryptocurrency designed to make online payments com
 Graincoin is a Litecoin fork and almost everything is the same as Litecoin, with some modifications made to further streamline transactions.
 
 For more information, as well as an immediately useable, binary version of
-the Graincoin client sofware, see https://graincoin.000webhostapp.com/.
+the Graincoin client sofware, see https://graincoind.000webhostapp.com/.
 
 License
 -------
@@ -73,4 +73,3 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./graincoin-qt_test
 
-For instructions on how to create a Graincoin Node node, go to: https://graincoin.000webhostapp.com/configure-a-graincoin-node
